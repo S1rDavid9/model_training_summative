@@ -4,6 +4,12 @@ An end-to-end machine learning project that predicts student learning styles usi
 
 ---
 
+## 🎥 Demo Video
+
+[![CodeSensAI Demo](https://cdn.loom.com/sessions/thumbnails/298995f69d2e4f3cb43d9462c38cb01d-with-play.gif)](https://www.loom.com/share/298995f69d2e4f3cb43d9462c38cb01d)
+
+---
+
 ## 📌 Project Overview
 
 Most educational platforms treat all learners the same way. CodeSensAI aims to change that by predicting a student's dominant learning style from their behavioural and academic patterns, enabling personalised content delivery and adaptive feedback.
